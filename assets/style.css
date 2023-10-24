@@ -73,4 +73,21 @@ h1 .larger-names {
 
 h1 .title {
     position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+    letter-spacing: 0.1rem;
+    font-size: 7rem;
+}
+
+img.main-image {
+    width: 100%;
+    margin-top: -18%;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    margin: 0.75rem 4rem 0 4rem;
+    font-family: 'Helvetica Neue Thin Condensed';
+    font-size: 2rem;
 }
