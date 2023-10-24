@@ -155,3 +155,9 @@ footer {
     padding-right: 0.75rem;
     border-right: solid 1px black;
 }
+
+.copyright {
+    font-family: 'Helvetica Neue Thin';
+    font-size: 0.5rem;
+    margin-top: 0.5rem;
+}
