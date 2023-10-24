@@ -91,3 +91,22 @@ footer {
     font-family: 'Helvetica Neue Thin Condensed';
     font-size: 2rem;
 }
+
+.topline {
+    display: flex;
+    justify-content: space-between;
+}
+
+.largename {
+    font-size: 2rem;
+    flex-wrap: nowrap;
+}
+
+.tiny {
+    font-size: 0.5rem;
+}
+
+.smallname {
+    font-size: 1.35rem;
+    flex-wrap: nowrap;
+}
