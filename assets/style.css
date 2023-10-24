@@ -110,3 +110,8 @@ footer {
     font-size: 1.35rem;
     flex-wrap: nowrap;
 }
+
+.smallwide {
+    font-family: 'Helvetica Neue Thin';
+    font-size: 1rem;
+}
