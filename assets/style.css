@@ -58,4 +58,19 @@ body{
     margin-bottom: 0.5rem;
 }
 
-h1
+h1 {
+    font-family: 'Sabotage';
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 3.5rem;
+}
+
+h1 .larger-names {
+    font-size: 5rem;
+    line-height: 0.8;
+    margin-top: 3.5rem;
+}
+
+h1 .title {
+    position: absolute;
+}
