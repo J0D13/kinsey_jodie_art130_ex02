@@ -92,6 +92,27 @@ footer {
     font-size: 2rem;
 }
 
+.left {
+    display: flex;
+    min-width: 18ch;
+    flex-direction: column;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+}
+
+.right-inner {
+    display: flex;
+    flex-direction: column;
+}
+
+.right-inner > div {
+    display: flex;
+    flex-direction: column;
+}
+
 .topline {
     display: flex;
     justify-content: space-between;
